@@ -1,0 +1,1 @@
+# A child theme for Twenty Twenty-One theme developed by Wordpress Team
